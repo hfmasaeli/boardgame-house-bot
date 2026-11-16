@@ -1,0 +1,1 @@
+"""Boardgame House tournament assistant."""
